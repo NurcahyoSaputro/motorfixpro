@@ -1,0 +1,7 @@
+{
+  "name": "MotoFix Pro - Bengkel Motor Terpercaya",
+  "description": "Website profil usaha bengkel motor profesional dengan layanan servis lengkap, ganti oli, dan suku cadang berkualitas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
